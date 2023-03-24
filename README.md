@@ -114,11 +114,11 @@ A map displaying each country in the dataset, color-coded to indicate air qualit
 
 <br>
 
-![Global Air Quality Dashboard](https://raw.githubusercontent.com/mellion/global-air-quality-2023/main/gaq_dashboard_one.png?token=GHSAT0AAAAAACAH4ZQ4D2N7KSSGGSOSROTSZA5KMGA)
+![Global Air Quality Dashboard](https://github.com/mellion/global-air-quality-2023/blob/main/gaq_dashboard_one.png?raw=true)
 
 <br>
 
-![Global Air Quality Dashboard](https://raw.githubusercontent.com/mellion/global-air-quality-2023/main/gaq_dashboard_two.png?token=GHSAT0AAAAAACAH4ZQ47O45YBUPSKFYIYBGZA5KMZA)
+![Global Air Quality Map](https://github.com/mellion/global-air-quality-2023/blob/main/gaq_dashboard_two.png?raw=true)
 
 <br>
 
