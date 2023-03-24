@@ -120,6 +120,11 @@ How has air pollution changed over time? We found that pollution levels have inc
 
 <br>
 
+![Global Air Quality Dashboard](https://raw.githubusercontent.com/mellion/global-air-quality-2023/main/gaq_dashboard_one.png?token=GHSAT0AAAAAACAH4ZQ4EJQM5TOY6WSPSVFKZA5I6ZA)
+<br>
+![Global Air Quality map](https://raw.githubusercontent.com/mellion/global-air-quality-2023/main/gaq_dashboard_two.png?token=GHSAT0AAAAAACAH4ZQ56OMXEO577O55XXYCZA5JAAA)
+
+
 ## Conclusion and Recommendations
 Based on our findings, we recommend the following strategies to combat air pollution:
 <br>
