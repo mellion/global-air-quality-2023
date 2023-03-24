@@ -112,6 +112,16 @@ A table showing cities with the highest PM2.5 pollution
 A map displaying each country in the dataset, color-coded to indicate air quality
 <br>
 
+<br>
+
+![Global Air Quality Dashboard](https://raw.githubusercontent.com/mellion/global-air-quality-2023/main/gaq_dashboard_one.png?token=GHSAT0AAAAAACAH4ZQ4D2N7KSSGGSOSROTSZA5KMGA)
+
+<br>
+
+![Global Air Quality Dashboard](https://raw.githubusercontent.com/mellion/global-air-quality-2023/main/gaq_dashboard_two.png?token=GHSAT0AAAAAACAH4ZQ47O45YBUPSKFYIYBGZA5KMZA)
+
+<br>
+
 ## Key Findings
 Through our analysis, we were able to address the following questions:
 
@@ -123,11 +133,7 @@ What are the highest PM2.5 pollution cities? The cities with the highest PM2.5 p
 <br>
 How has air pollution changed over time? We found that pollution levels have increased in many countries since the OpenAQ dataset was created.
 
-<br>
 
-![Global Air Quality Dashboard](https://raw.githubusercontent.com/mellion/global-air-quality-2023/main/gaq_dashboard_one.png?token=GHSAT0AAAAAACAH4ZQ4EJQM5TOY6WSPSVFKZA5I6ZA)
-<br>
-![Global Air Quality map](https://raw.githubusercontent.com/mellion/global-air-quality-2023/main/gaq_dashboard_two.png?token=GHSAT0AAAAAACAH4ZQ56OMXEO577O55XXYCZA5JAAA)
 
 
 ## Conclusion and Recommendations
